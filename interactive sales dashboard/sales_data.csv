@@ -1,0 +1,11 @@
+Date,Region,Product,Sales,Quantity
+2025-01-01,North,Apples,1200,30
+2025-01-02,North,Oranges,800,20
+2025-01-03,South,Apples,950,25
+2025-01-04,East,Bananas,400,15
+2025-01-05,West,Apples,1400,35
+2025-01-06,South,Oranges,600,18
+2025-01-07,North,Bananas,700,22
+2025-01-08,West,Oranges,1100,28
+2025-01-09,East,Apples,1300,32
+2025-01-10,South,Bananas,500,16
